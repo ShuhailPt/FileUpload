@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879036549713",
+    "project_id": "temtestapp",
+    "storage_bucket": "temtestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879036549713:android:7525a5d6f907133a950670",
+        "android_client_info": {
+          "package_name": "com.example.tem_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHByezF7AuE8_FlwiTAkmfDbm2coKLVE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:video_player/video_player.dart';
-import '../screens/home_page.dart';
+import '../screens/file_upload_screens/file_home_page.dart';
 class MainProvider extends ChangeNotifier{
   FirebaseFirestore db = FirebaseFirestore.instance;
   Reference imgstr=FirebaseStorage.instance.ref("Images");

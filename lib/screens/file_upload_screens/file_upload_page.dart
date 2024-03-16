@@ -4,9 +4,9 @@ import 'package:provider/provider.dart';
 
 import 'package:video_player/video_player.dart';
 
-import '../constant/my_color.dart';
-import '../controller/main_provider.dart';
-import 'home_page.dart';
+import '../../constant/my_color.dart';
+import '../../controller/main_provider.dart';
+import 'file_home_page.dart';
 
 
 class FileUploadPage extends StatelessWidget {
